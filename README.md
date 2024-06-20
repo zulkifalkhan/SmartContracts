@@ -5,12 +5,17 @@ Contracts Included
 Kickstart Contract
 
 Description: A crowdfunding contract where funds are released based on milestones or voting.
+
 File: Kickstart.sol
+
 NFT Contract
 
 Description: Implements the ERC-721 standard for non-fungible tokens (NFTs).
+
 File: NFT.sol
+
 Car Ownership Transfer Contract
 
 Description: Facilitates the transfer of ownership of a car (or any asset) using blockchain technology.
+
 File: CarOwnership.sol
